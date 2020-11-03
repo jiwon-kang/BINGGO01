@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50078989056",
+    "firebase_url": "https://binggo-c96fe.firebaseio.com",
+    "project_id": "binggo-c96fe",
+    "storage_bucket": "binggo-c96fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50078989056:android:ac1de6156f9f04b58411e5",
+        "android_client_info": {
+          "package_name": "com.example.binggo01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50078989056-r7g5hrtg25k1dob6mn4re8etio809eq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCChGXajqKH0eq6GAsU8p-1Uwo6EJnNDU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50078989056-r7g5hrtg25k1dob6mn4re8etio809eq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
